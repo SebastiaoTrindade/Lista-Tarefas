@@ -1,10 +1,10 @@
-# Lista de Tarefas
+# Projeto Lista de Tarefas
 
 Sobre o projeto
 
 Este repositório foi criado para colocar em prática os conhecimentos adquiridos no curso de ASP NET Core - Básico e Avançado - Udemy.
 
-O objetivo do projeto foi criar um sistema básico de tarefas diárias utilizando tecnologias simples como ASP NET Core, EntityFramework Core e Bootstrap.
+O objetivo do projeto foi criar um sistema básico de tarefas diárias utilizando as tecnologias ASP NET Core, EntityFramework Core e Bootstrap.
 
 # Layout do projeto
 
